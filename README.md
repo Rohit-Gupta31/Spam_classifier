@@ -3,7 +3,7 @@
 A machine learning-based spam classifier that predicts whether a given message is **spam** or **ham**. It uses Natural Language Processing (NLP) techniques for text preprocessing, vectorization, and classification. The best-performing model is deployed with a Streamlit UI for real-time predictions.
 
 ## Video demo
-[Demo: ](https://drive.google.com/file/d/1o12bfrmcbyGsWZFFcWWN8BZi_ly-T3c5/view?usp=sharing)
+[Demo:](https://drive.google.com/file/d/1o12bfrmcbyGsWZFFcWWN8BZi_ly-T3c5/view?usp=sharing)
 
 ---
 
@@ -47,7 +47,7 @@ A machine learning-based spam classifier that predicts whether a given message i
 
 ---
 
-## 🖥️ Streamlit Web App
+##  Streamlit Web App
 
 The project includes a Streamlit app (`app.py`) for interactive use:
 
@@ -55,7 +55,7 @@ The project includes a Streamlit app (`app.py`) for interactive use:
 - The model will predict whether it's spam or ham
 - Uses saved `model.pkl` and `vectorizer.pkl`
 
-### 🔧 How to Run
+###  How to Run
 
 ```bash
 git clone https://github.com/Rohit-Gupta31/Spam_classifier.git
